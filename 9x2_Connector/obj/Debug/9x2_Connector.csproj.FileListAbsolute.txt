@@ -1,0 +1,2 @@
+C:\Users\bidha\source\repos\9x2_Connector\9x2_Connector\obj\Debug\9x2_Connector.csprojAssemblyReference.cache
+C:\Users\bidha\source\repos\9x2_Connector\9x2_Connector\obj\Debug\9x2_Connector.csproj.CoreCompileInputs.cache
